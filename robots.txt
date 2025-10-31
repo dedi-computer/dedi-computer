@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://username.github.io/dedi-computer/sitemap.xml
+Host: https://username.github.io/dedi-computer/
